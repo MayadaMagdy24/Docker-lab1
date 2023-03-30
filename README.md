@@ -43,6 +43,7 @@
 ![Screenshot (788)](https://user-images.githubusercontent.com/93229250/228753401-d8547432-e5db-458c-b260-ca48222de5c7.png)
 
 •Add html static files to the container and make sure they are accessible
+![Screenshot (796)](https://user-images.githubusercontent.com/93229250/228860205-c30c3e59-251e-46f8-b11e-630bd12bc1c3.png)
 
 •Commit the container with image name my apache
 ![Screenshot (790)](https://user-images.githubusercontent.com/93229250/228754132-51358f9a-2481-47a0-9992-3a0bc96fc870.png)
